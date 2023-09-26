@@ -1,0 +1,2 @@
+# MineFBot
+simple mineflayer bot
