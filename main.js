@@ -6,7 +6,6 @@ const bot = mineflayer.createBot({
   host: 'ReplaceWithIP',
   port: 25565,
   username: 'ReplaceMe',
-  password: '',
   version: '1.19.4',
   plugins: [AutoAuth],
   AutoAuth: 'ReplaceMe'
